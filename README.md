@@ -1,6 +1,4 @@
 # Ex-6: Implementation-of-Logistic-Regression-Using-Gradient-Descent
-
-## Date: 16-09-2024
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 
