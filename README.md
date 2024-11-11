@@ -103,26 +103,43 @@ print(y_prednew)
 
 ## Output:<br>
 
-
+### Dataset Overview
 ![1)](https://github.com/user-attachments/assets/648cdc1d-22b3-4c1a-ab19-76608cf44c11)
 
+<br>
 
-<br><br>
-
+### Preprocessing and Feature Encoding
 ![2)](https://github.com/user-attachments/assets/7f3e860d-3d74-4bba-b298-3f0cc52e1a2b)
 
 
-<br><br>
+<br>
+
+### Categorical columns to numerical codes
 ![3)](https://github.com/user-attachments/assets/4aa1793f-1575-4490-ae2a-4f1fceb120aa)
 
 
 <br><br>
+### Y Values
 ![4)](https://github.com/user-attachments/assets/e081df59-a4ad-4766-aba0-0f1109045a50)
 
-<br><br>
-![5)](https://github.com/user-attachments/assets/f73a1e6e-faed-48a9-8c03-f3d2a1f7810f)
+<br>
 
-<br><br>
+### Accuracy
+![io1](https://github.com/user-attachments/assets/06f96c5e-e5a9-4c1c-9839-c66f9acc9e8f)
+
+<br>
+
+### Predictions on Training Data
+![io2](https://github.com/user-attachments/assets/c7a8d5ad-8683-40d3-a9ea-1125f2172979)
+
+<br>
+
+### New Y values
+![io3](https://github.com/user-attachments/assets/89332d85-9fb2-4474-bfd6-99cdcc582c01)
+
+<br>
+
+### New Y Predicted
 ![6)](https://github.com/user-attachments/assets/0d3cc0d6-335f-4203-ba9c-c387c2b89668)
 
 
